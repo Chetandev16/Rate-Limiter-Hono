@@ -1,0 +1,7 @@
+compatability_date = "2024-04-08"
+name = "redis-rate-limiter"
+
+
+[vars]
+REDIS_URL = "https://apn1-cool-lion-33922.upstash.io"
+REDIS_TOKEN = "AYSCASQgYjIwMDk0ZWUtNmI4Zi00NDFlLWJlZDQtNmY3MjZlMGViNmJlM2ZjMGFlYTMwYzhhNDQ5NmJlYWM5MjJhOWJhYzcyODc="
